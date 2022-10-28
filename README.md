@@ -1,10 +1,10 @@
 # Content Filtering for Audio and Video contet using AI and ML.
 
 The visual representation of the pipeline can be visualized in the following image:
-![image](https://github.com/Muhammad0Awais/sber_zvuk_hackathon/blob/main/images/content_filtering_pipeline.pngraw=true)
+![image](https://github.com/Muhammad0Awais/sber_zvuk_hackathon/blob/main/images/content_filtering_pipeline.png?raw=true)
 
 The Algorithm for filtering the content is visualized in the following image:
-![image](https://github.com/Muhammad0Awais/sber_zvuk_hackathon/blob/main/images/algorithm.pngraw=true)
+![image](https://github.com/Muhammad0Awais/sber_zvuk_hackathon/blob/main/images/algorithm.png?raw=true)
 
 # OpenAPI generated FastAPI server
 
